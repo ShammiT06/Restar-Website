@@ -1,4 +1,3 @@
-South Indian Restaurant Website
 This is a simple, responsive website for a South Indian restaurant, built using HTML and basic CSS. The website features:
 
 Restaurant Name: Displayed prominently in an <h1> tag.
